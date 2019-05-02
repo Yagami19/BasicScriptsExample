@@ -1,0 +1,1 @@
+W projekcie ukazano podstawowe skrypty stosowane w grach takie jak liczenie punktów, przenoszenie gracza z miejsca na miejsce czy te¿ tworzenie przeszkód lub niebezpieczeñstw.
